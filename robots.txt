@@ -1,0 +1,3 @@
+User-agent: *
+
+Sitemap: https://Resmi-Ramachandran.github.io/sitemap.xml

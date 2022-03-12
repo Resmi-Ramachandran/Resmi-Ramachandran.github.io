@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>2 | Resmi RamachandranPillai</title>
+    <link>https://Resmi-Ramachandran.github.io/publication-type/2/</link>
+      <atom:link href="https://Resmi-Ramachandran.github.io/publication-type/2/index.xml" rel="self" type="application/rss+xml" />
+    <description>2</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Fri, 01 Jan 2021 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://Resmi-Ramachandran.github.io/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
+      <title>2</title>
+      <link>https://Resmi-Ramachandran.github.io/publication-type/2/</link>
+    </image>
+    
+    <item>
+      <title>A solution to dynamic green vehicle routing problems with time windows using spiking neural P systems with modified rules and learning</title>
+      <link>https://Resmi-Ramachandran.github.io/publication/ramachandranpillai-2021-solution/</link>
+      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>https://Resmi-Ramachandran.github.io/publication/ramachandranpillai-2021-solution/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Spiking neural firefly optimization scheme for the capacitated dynamic vehicle routing problem with time windows</title>
+      <link>https://Resmi-Ramachandran.github.io/publication/ramachandranpillai-2021-spiking/</link>
+      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>https://Resmi-Ramachandran.github.io/publication/ramachandranpillai-2021-spiking/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>An adaptive spiking neural P system for solving vehicle routing problems</title>
+      <link>https://Resmi-Ramachandran.github.io/publication/ramachandranpillai-2020-adaptive/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>https://Resmi-Ramachandran.github.io/publication/ramachandranpillai-2020-adaptive/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Spiking neural P ant optimisation: a novel approach for ant colony optimisation</title>
+      <link>https://Resmi-Ramachandran.github.io/publication/ramachandranpillai-2020-spiking/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>https://Resmi-Ramachandran.github.io/publication/ramachandranpillai-2020-spiking/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
